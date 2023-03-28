@@ -2,7 +2,7 @@
 
 Submitted by: **Kazi Anwar**
 
-Time spent: **10** hours spent in total
+Time spent: **11** hours spent in total
 
 ## Summary
 
@@ -31,7 +31,7 @@ The following EXTRA features are implemented:
 
 ## API Choice
 
-**My chosen API for this project is official_joke_api. The api documentation can be found here: https://github.com/15Dkatz/official_joke_api and the API displays three types of data which are type, setup and puncline.**
+**My chosen API for this project is official_joke_api. The api documentation can be found here: https://github.com/15Dkatz/official_joke_api and the API displays three types of data which are type, setup and punchline.**
 
 ## Video Demo
 
